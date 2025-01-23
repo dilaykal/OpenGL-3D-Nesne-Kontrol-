@@ -1,0 +1,3 @@
+C:/Users/dilay/Downloads/B201210006 (14)/B201210006/Bilgisayar_Grafikleri_Proje/Kodlar/proje/build/CMakeFiles/proje.dir
+C:/Users/dilay/Downloads/B201210006 (14)/B201210006/Bilgisayar_Grafikleri_Proje/Kodlar/proje/build/CMakeFiles/edit_cache.dir
+C:/Users/dilay/Downloads/B201210006 (14)/B201210006/Bilgisayar_Grafikleri_Proje/Kodlar/proje/build/CMakeFiles/rebuild_cache.dir
